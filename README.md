@@ -1,0 +1,2 @@
+# ReconocimientodePatrones
+Escanea Patrones Faciales
